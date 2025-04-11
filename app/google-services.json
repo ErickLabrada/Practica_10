@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "825159738302",
+    "project_id": "login-b0905",
+    "storage_bucket": "login-b0905.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825159738302:android:86be0cfcc410738684cfef",
+        "android_client_info": {
+          "package_name": "erick.labrada.practica10"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825159738302-thl26pmr4590faiilghalufqj72036ia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqG0kQDcqqXPEkM5DP-8U1ozIVx6WmJWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825159738302-thl26pmr4590faiilghalufqj72036ia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
